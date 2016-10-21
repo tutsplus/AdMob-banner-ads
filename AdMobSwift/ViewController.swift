@@ -29,18 +29,16 @@ GADBannerViewDelegate
     
     
     
-    
 
 override func viewDidLoad() {
         super.viewDidLoad()
     
-    
+
     // Init AdMob banner
     initAdMobBanner()
 }
 
     
-
     
     
     
