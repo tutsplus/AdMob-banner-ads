@@ -2,14 +2,7 @@
 ## Instructor: [Francesco Franchini][instructor url]
 
 
-[TUTORIAL DESCRIPTION]
-
-
-
-
-## 3rd-Party Content
-
-The following [] are sourced from [] and licensed under Creative Commons [CC BY-2.0](https://creativecommons.org/licenses/by/2.0/) or [CC BY-SA-2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+Banner ads are an important source of revenue for many app developers. In this tutorial you will learn how to add AdMob ads to your iOS app, using Swift 3 and Xcode 8.
 
 ------
 
